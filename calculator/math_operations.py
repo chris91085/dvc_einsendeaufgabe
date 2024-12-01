@@ -22,3 +22,7 @@ class Calculator:
         if b == 0:
             raise ValueError("Division durch Null ist nicht erlaubt")
         return a / b
+    
+    def power(a, b):
+        """Potenziert zwei Zahlen."""
+        return a ** b
