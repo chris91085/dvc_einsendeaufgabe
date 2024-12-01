@@ -11,12 +11,13 @@ Funktionsnachweis:
     ![push](/screenshots/push_screenshot.png)
 - pull
     ![pull](/screenshots/pull_screenshot.png)
-- add
-- commit
+- add & commit
     ![commit](/screenshots/commit_screenshot.png)
 - diff
     ![diff](/screenshots/diff_screenshot.png)
 - status
     ![status](/screenshots/status_screenshot.png)
 - rm/mv
+    ![rm/mv]()
 - log
+    ![log](/screenshots/log_screenshot.png)
