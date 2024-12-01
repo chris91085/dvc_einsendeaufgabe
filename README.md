@@ -16,5 +16,4 @@ Funktionsnachweis:
 - diff
 - status
     ![alt text](status_screenshot.png.png)
-- rm
-- mv
+- rm/mv
