@@ -10,9 +10,10 @@ Funktionsnachweis:
 - push
     ![push](/screenshots/push_screenshot.png)
 - pull
+    ![pull](/screenshots/pull_screenshot.png)
 - add
 - commit
-    ![commit](/screenshots/commit_screenshoot.png)
+    ![commit](/screenshots/commit_screenshot.png)
 - diff
     ![diff](/screenshots/diff_screenshot.png)
 - status
