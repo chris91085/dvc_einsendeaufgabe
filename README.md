@@ -2,20 +2,20 @@
 Repository is for practice purposes
 
 Eigenes Projekt hochladen:
-    ![eigenes Projekt](./screenshots/upload_eigenes_projekt.png.png)
+    ![Upload](/screenshots//upload_eigenes_projekt.png)
 
 
 Funktionsnachweis:
 
 - push
-    ![alt text](./screenshots/push_screenshot.png.png)
+    ![push](/screenshots/push_screenshot.png)
 - pull
 - add
 - commit
-    ![alt text](./screenshots/commit_screenshoot.png.png)
+    ![commit](/screenshots/commit_screenshoot.png)
 - diff
-    ![alt text](./screenshots/diff_screenshot.png.png)
+    ![diff](/screenshots/diff_screenshot.png)
 - status
-    ![alt text](./screenshots/status_screenshot.png.png)
+    ![status](/screenshots/status_screenshot.png)
 - rm/mv
 - log
