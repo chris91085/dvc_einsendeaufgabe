@@ -18,6 +18,6 @@ Funktionsnachweis:
 - status
     ![status](/screenshots/status_screenshot.png)
 - rm/mv
-    ![rm/mv](/screenshots/rm_screenshot.png))
+    ![rm/mv](/screenshots/rm_screenshot.png)
 - log
     ![log](/screenshots/log_screenshot.png)
